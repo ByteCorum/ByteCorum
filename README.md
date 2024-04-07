@@ -6,7 +6,8 @@
 <a href="https://github.com/ByteCorum"><img src="resources/github.svg" width="30" height="30" fill="#4493F8">
 <a href="https://bytecorum.github.io/"><img src="resources/google.svg" width="30" height="30" fill="#4493F8">
 </a></p>
-<p align='center'><img src="resources/line.svg"></p>
+
+<p align='center'><img src="resources/line.svg" width="750" ></p>
 
 <p align='center'><img src="https://github-widgetbox.vercel.app/api/profile?username=bytecorum&data=followers,repositories,stars,commits&theme=nautilus" width="800"></p>
 
