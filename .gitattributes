@@ -52,7 +52,7 @@ CMakeLists.txt  text diff=CMake
 CMakeLists.txt linguist-language=CMake
 CMakeLists.txt linguist-detectable=true
 
-*.md linguist-documentation=true
+*.md linguist-documentation=false
 
 
 #Ignore dirs/files
