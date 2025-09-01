@@ -1,6 +1,6 @@
 <p align='center'><img src="resources/svg/header.svg"></p>
 
-<p align='center'><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=100&color=4A5897&center=true&vCenter=true&width=435&lines=Wecome+to+my+profile;I'm+ByteCorum" alt="Typing SVG" /></a></p>
+<p align='center'><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=100&color=4A5897&center=true&vCenter=true&width=435&lines=Wecome+to+my+profile;I'm+ByteCorum" alt="hello" /></p>
 
 <p align='center'>
 <a href="https://discordapp.com/users/798503509522645012/"><img src="resources/svg/discord.svg" width="30" height="30" fill="#4A5897"></a>
@@ -17,7 +17,7 @@
 
 <p align='center'><img src="https://github-widgetbox.vercel.app/api/skills?languages=cpp,csharp,c,python,js,html,css,bash,json,mysql,powershell,lua,markdown&theme=nautilus" width="800"></p>-->
 
-<p align='center'><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=3100&color=4A5897&center=true&vCenter=true&width=435&lines=Github Statistic" alt="Typing SVG" /></a></p>
+<p align='center'><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=3100&color=4A5897&center=true&vCenter=true&width=435&lines=Github Statistic" alt="stats" /></p>
 <p align='center'>
   <img src="https://github-readme-stats.vercel.app/api/?username=bytecorum&rank_icon=github&show_icons=true&show=reviews&hide_rank=true&theme=tokyonight&border_color=384373&bg_color=384373&text_color=E7E7E7&title_color=7186E6&border_radius=15&ring_color=608DD9&card_width=340" height="220" style="display:inline-block;">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -25,7 +25,7 @@
 </p>
 
 <p align='center'><img src="resources/svg/line.svg" width="750" ></p>
-<p align='center'><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=3100&color=4A5897&center=true&vCenter=true&width=435&lines=My Tech Stack" alt="Typing SVG" /></a></p>
+<p align='center'><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=3100&color=4A5897&center=true&vCenter=true&width=435&lines=My Tech Stack" alt="skills" /></p>
 
 <p align='center'>
 <img src="resources/svg/c.svg" width="30" height="30"></a>
