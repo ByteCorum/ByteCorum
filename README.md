@@ -18,7 +18,7 @@
 <p align='center'><img src="https://github-widgetbox.vercel.app/api/skills?languages=cpp,csharp,c,python,js,html,css,bash,json,mysql,powershell,lua,markdown&theme=nautilus" width="800"></p>-->
 
 <!--<p align='center'><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=3100&color=4A5897&center=true&vCenter=true&width=435&lines=Github Statistic" alt="stats" /></p>-->
-<h2 align="center">Github Statistic</h2>
+<h3 align="center">Github Statistic</h3>
 
 <p align='center'>
   <img src="https://github-readme-stats.vercel.app/api/?username=bytecorum&rank_icon=github&show_icons=true&show=reviews&hide_rank=true&theme=tokyonight&border_color=384373&bg_color=384373&text_color=E7E7E7&title_color=7186E6&border_radius=15&ring_color=608DD9&card_width=340" height="220" style="display:inline-block;">
@@ -29,7 +29,7 @@
 <p align='center'><img src="resources/svg/line.svg" width="750" ></p>
 
 <!--<p align='center'><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=3100&color=4A5897&center=true&vCenter=true&width=435&lines=My Tech Stack" alt="skills" /></p>-->
-<h2 align="center">My Tech Stack</h2>
+<h3 align="center">My Tech Stack</h3>
 
 <p align='center'>
 <img src="resources/svg/c.svg" width="40" height="40"></a>
