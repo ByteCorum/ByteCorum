@@ -30,22 +30,22 @@
 <p align='center'><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=3100&color=4A5897&center=true&vCenter=true&width=435&lines=My Tech Stack" alt="skills" /></p>
 
 <p align='center'>
-<img src="resources/svg/c.svg" width="30" height="30"></a>
-<img src="resources/svg/cpp.svg" width="30" height="30"></a>
-<img src="resources/svg/csharp.svg" width="30" height="30"></a>
-<img src="resources/svg/python.svg" width="30" height="30"></a>
-<img src="resources/svg/javascript.svg" width="30" height="30"></a>
-<img src="resources/svg/html.svg" width="30" height="30"></a>
-<img src="resources/svg/css.svg" width="30" height="30"></a>
-<img src="resources/svg/bash.svg" width="30" height="30"><br>
-<img src="resources/svg/dotnet.svg" width="30" height="30">
-<img src="resources/svg/arduino.svg" width="30" height="30">
-<img src="resources/svg/git.svg" width="30" height="30">
-<img src="resources/svg/mysql.svg" width="30" height="30">
-<img src="resources/svg/at.svg" width="30" height="30">
-<img src="resources/svg/unity.svg" width="30" height="30">
-<img src="resources/svg/ue.svg" width="30" height="30">
-<img src="resources/svg/linux.svg" width="30" height="30">
+<img src="resources/svg/c.svg" width="40" height="40"></a>
+<img src="resources/svg/cpp.svg" width="40" height="40"></a>
+<img src="resources/svg/csharp.svg" width="40" height="40"></a>
+<img src="resources/svg/python.svg" width="40" height="40"></a>
+<img src="resources/svg/javascript.svg" width="40" height="40"></a>
+<img src="resources/svg/html.svg" width="40" height="40"></a>
+<img src="resources/svg/css.svg" width="40" height="40"></a>
+<img src="resources/svg/bash.svg" width="40" height="40"><br>
+<img src="resources/svg/dotnet.svg" width="40" height="40">
+<img src="resources/svg/arduino.svg" width="40" height="40">
+<img src="resources/svg/git.svg" width="40" height="40">
+<img src="resources/svg/mysql.svg" width="40" height="40">
+<img src="resources/svg/at.svg" width="40" height="40">
+<img src="resources/svg/unity.svg" width="40" height="40">
+<img src="resources/svg/ue.svg" width="40" height="40">
+<img src="resources/svg/linux.svg" width="40" height="40">
 </p>
 
 <!--<p align='center'>
