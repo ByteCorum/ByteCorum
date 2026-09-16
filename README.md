@@ -75,10 +75,67 @@ I would like to thank you for following me alongside this bio. Thank you for rea
 
 ---
 
+<h3>Additional Info</h3>
+
+<ul>
+
+<li>GitHub: <code>https://github.com/ByteCorum</code></li>
+
+<li>
+<details>
+<summary>GitHub public GPG key</summary>
+<pre>
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mDMEap64xhYJKwYBBAHaRw8BAQdAFN+5o09Hh+P50DL7IWE7nJVhSSyYSO8nR4lA
+zDrgu8S0QUJ5dGVDb3J1bSAoR2l0aHViKSA8MTY0ODc0ODg3K0J5dGVDb3J1bUB1
+c2Vycy5ub3JlcGx5LmdpdGh1Yi5jb20+iJYEExYKAD4WIQRlREuFPrWYDG5b7Yl2
+afBcMRt9rQUCap64xgIbAwUJAeEzgAULCQgHAgYVCgkICwIEFgIDAQIeAQIXgAAK
+CRB2afBcMRt9rdX8AQCR4H314An/rEP2PKYFRhYYvnNJUNjHoJpL4oFc/SM7gAD9
+EYbs7WLH5GPOZz7D/+4AqxST2e41LhFbrAwf9Ccswwm4OARqnrjGEgorBgEEAZdV
+AQUBAQdAGxSmi1jZwwPbCkWfxmHSC7o5Kt+iAt+MQjgmjtlNQFUDAQgHiH4EGBYK
+ACYWIQRlREuFPrWYDG5b7Yl2afBcMRt9rQUCap64xgIbDAUJAeEzgAAKCRB2afBc
+MRt9raaPAPwJZj2VjWrTitgH4umCaWq5tPA0kDKZCIFQA4nyyhrAJgD/XRFJgIJh
+AFZp4UHg1oOuHfz7oJuFjAlY5/udpFpjqw4=
+=vFJj
+-----END PGP PUBLIC KEY BLOCK-----
+
+</pre>
+</details>
+</li>
+
+<li>GitLab: <code>https://gitlab.com/ByteCorum</code></li>
+
+<li>
+<details>
+<summary>GitLab public GPG key</summary>
+<pre>
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mDMEap663RYJKwYBBAHaRw8BAQdAuv+q4woFblZaE253f5Q7KiyX9bLfm4At/+QS
++czg6qq0QEJ5dGVDb3J1bSAoR2l0bGFiKSA8MzI1MzQ1NjMtQnl0ZUNvcnVtQHVz
+ZXJzLm5vcmVwbHkuZ2l0bGFiLmNvbT6IlgQTFgoAPhYhBGh7S94PIInn7BG4oSKr
+yL84D/NfBQJqnrrdAhsDBQkB4TOABQsJCAcCBhUKCQgLAgQWAgMBAh4BAheAAAoJ
+ECKryL84D/Nf++UBAMq5sHHap4vxjAha8KmUoLqvh+vwqHfHwZKBlXl5HDKMAP0Y
+2Z4U/7kF7JQzS47lYvhbfii40fawjv+MJqLyNkhpDLg4BGqeut0SCisGAQQBl1UB
+BQEBB0C6CJKxSPIVd3yN58p9UJbHkV7/AgOLW3s8chN1RGaddAMBCAeIfgQYFgoA
+JhYhBGh7S94PIInn7BG4oSKryL84D/NfBQJqnrrdAhsMBQkB4TOAAAoJECKryL84
+D/NffI8A/3bJ0RzQ0EROJ7iwInOpNXmS6eRxF61/aNyro8DciOPyAQDRqkws3hXM
+xTmf7ZjSuadZzauhkG+DTcNCnPVJ+QESAA==
+=A0oO
+-----END PGP PUBLIC KEY BLOCK-----
+
+</pre>
+</details>
+</li>
+
+</ul>
+
+---
+
 <h3>Contact</h3>
 
 <ul>
-<li>GitLab: <code>https://gitlab.com/ByteCorum</code></li>
 <li>SimpleX: <code>https://smp11.simplex.im/a#2K6caIvN6vHcobLgCcgkbRAliN1Jv7Ud1UQ-jueqhZ8</code></li>
 <li>Sessions:  <code>05aadca13873c6341646e375f3575a5ed4c73aecd6a398b5c2052629a5f69b771c </code></li>
 </ul>
