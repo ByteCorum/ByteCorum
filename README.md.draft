@@ -1,0 +1,49 @@
+<!--
+|#|========================================|#|
+|#|What are you even doing here?           |#|
+|#|Just why do you spend time looking into |#|
+|#|bio draft?                              |#|
+|#|========================================|#|
+-->
+
+h3>Firstly you may wonder who is this ByteCorum</h3>
+If you have already read a short bio you should know that he is a developer, but don't look at those shit that are written in short bio. I'll explain it better to you.
+
+<br>
+
+So to start I would like to say that ByteCorum is obviously a developer basically a builder, a protector, and an architect. Ok, besides jokes, This person is a <b>DevSecOps Engineer or Systems and Security Engineer</b>, some hard and dumb words that explain nothing. Wait a sec, I'll break it down in a way that makes sense to everyone.
+
+<h4>The Dev part of this pie</h4>
+ByteCorum is developer at heart, basically developer part is the biggest part of this pie, at least now. Nobody knows future!
+<ul>
+<li><b>He spend more than 6 years</b> messing with dynamic typing hell, inconsistency of indentation when pasting from Stackoverflow and rly !awesome performance <b>in Python</b>.</li>
+<b>Also, invested more than 5 years</b> in fighting with memory leaks, <li>double frees, and dangling pointers; race conditions, deadlocks ; ancient egyptian's compile errors <b>in C++</b>.</li>
+<li><b>Besides, experienced more than 3 years</b> of segmentation faults, non-object-oriented design and custom exception handling mechanisms <b>in C</b>.</li>
+<li><b>Currently he is actively learning Rust</b> but as for now it's nothing for me to tell you about it.</li>
+<li>Also worth mentioning his experience with <b>bash, git, html, markdown, css and unity engine</b> those are just a tools that he used to make his work done. Weather it's git and bush which he is using every day for development and automation and have a massive experience in or just some amount of knowledge cuz he was using it back in the days.
+</ul>
+
+
+<h4>The Ops part of this pie</h4>
+
+Hey, glad to see you in this pie's part, so what we have here. ByteCorum is rly like to mess with things and than spending days repairing what he've done. He say it helps him learn things better, but I think he just want some additional pain in ass.
+<br>
+This person has his own <b>production-grade Debian Server</b> under his table. As he later said it was "Mammutaufgabe" basically extremely hard task, as for me I don't think that this server which is used only by ByteCorum and to host a couple of his project, needs such a height level of development.
+
+<br>
+
+To make his <b>server secure</b> and resistant to "bad guys" he utilized plenty of  <b>kernel parameters, sysctl tweaks and blacklisted kernel modules</b>. Also ByteCorum invested a ton of time in messing with <b>strict apparmor profiles for almost every process</b>. But even this was not even close to end cuz network vector is still unsecure, so he went dealing with <b>UFW and NFTables rules to make them as restrictive as possible while maintaining machine online</b>. Ok base now ready but how to connect to it. Here ByteCorum worked on <b>wireguard access to server network and than login into server using ssh and key file</b>. Also he used his dev part to write <b>an own control panel to suit this server the most</b>. Deployment path is a curve way, but this person used a <b>github and gitlab actions and runners with a gain of docker salt to setup CI/CD</b> and successfully make his project face the world. To store his personal info and info of customers ByteCorum used <b>mySQL and postgresSQL with weekly backups</b>
+
+
+<h4>The Sec part of this pie</h4>
+The security always took a special place at ByteCorum's heart. As you may have already read in Ops part he is capable of developing a rly trustworthy and secure environment, but this not stops on servers. ByteCorum has also a rly <b>huge experience in configuring a hardened but still usable desktops</b>. As far as I know he even <b>developing hardened and privacy focused desctop-focused linux distro</b> now, but pssss, it's some sort of secret.
+
+<br>
+
+Ah, how I cloud forget! <b>ByteCorum is also a privacy researcher and enthusiast who want to make a better place to live</b>. He is actively learning and developing himself in this field, mb some day you even will know him in this way.
+
+<br>
+
+> Being human is also being privat, we all have an innate need for privacy as part of being human.
+>
+>> Andy Yan
