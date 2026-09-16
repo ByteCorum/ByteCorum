@@ -51,7 +51,9 @@
 </p>
 
 <!--<p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=bytecorum&repo=DragonBurn&theme=tokyonight&border_color=162238&bg_color=162238&text_color=BFBFBF&title_color=EAB622&border_radius=15" width="370" style="display:inline-block;">
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=bytecorum&repo=DragonBurn&theme=tokyonight&border_color=162238&
+
+  bg_color=162238&text_color=BFBFBF&title_color=EAB622&border_radius=15" width="370" style="display:inline-block;">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/pin?username=bytecorum&repo=BIOS&theme=tokyonight&border_color=162238&bg_color=162238&text_color=BFBFBF&title_color=EAB622&border_radius=15" width="370" style="display:inline-block;">
 </p>
