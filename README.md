@@ -9,6 +9,9 @@
 <p align='center'>
  <h1>ByteCorum</h1>
 </p>
+
+---
+
 <p align='center'>
  If you are seeing this, you've came across ByteCorum's github profile. So let's just assume you've done intentionally, cuz you want to learn about this individual.
  <br>
@@ -18,3 +21,5 @@
 <h3>Firstly you may wonder who is this ByteCorum</h3>
 
 ---
+
+footer
