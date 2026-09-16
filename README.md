@@ -65,7 +65,7 @@ Beyond servers and desktops, ByteCorum is a <b>privacy researcher and enthusiast
 
 > "Being human is also being private. We all have an innate need for privacy as part of being human."
 >
-> **Andy Yan**
+> **Andy Yen**
 
 ---
 
