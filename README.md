@@ -7,7 +7,7 @@
 -->
 
 <p align='center'>
- <h1>ByteCorum</h1>
+ <h3>ByteCorum</h3>
 </p>
 
 ---
