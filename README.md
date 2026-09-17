@@ -106,8 +106,8 @@ xTmf7ZjSuadZzauhkG+DTcNCnPVJ+QESAA==
 <h3>Support</h3>
 
 <img src="resources/svg/liberapay.svg" alt="Liberapay" height="14"> Liberapay: <code>todo</code><br>
-<img src="resources/svg/bitcoin.svg" alt="Bitcoin" height="14"> Bitcoin: <code>todo</code><br>
-<img src="resources/svg/monero.svg" alt="Monero" height="14"> Monero: <code>todo</code>
+<img src="resources/svg/bitcoin.svg" alt="Bitcoin" height="14"> Bitcoin: <code>bc1px8vygcscev39uvse0hsn8jn5rtp88lramyt5dfafffmdxyvts39qf6m0rh</code><br>
+<img src="resources/svg/monero.svg" alt="Monero" height="14"> Monero: <code>43qgFJoj7qD7oEzcPZxAgGB7YrX71wzhaZgFkdz6u4hncAqFrjMxX7KgreG2eLeNyNfVCtM9A5psjQMXGt6DG4RpVpYX6ri</code>
 
 ---
 
