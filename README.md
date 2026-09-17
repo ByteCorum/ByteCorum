@@ -42,7 +42,7 @@ I'm a developer with a strong interest in systems, automation, and security. I'v
 
 Thank you for reading this, have a nice day!
 
-If you are using an open-source project and you enjoy it, please consider donating at least $1. <b>If everyone donated to open-source(I mean open-source in general, any project) at least $1 per month, it would dramatically improve open-source making the digital world a much better place! You can't rely on proprietary solutions as they are basically a black box which may stop support every second, so in current digital world open-source is the only way to live!</b>
+If you are using an open-source project and you enjoy it, please consider donating it at least $1. <b>If everyone donated to open-source(I mean open-source in general, any project) at least $1 per month, it would dramatically improve open-source making the digital world a much better place! You can't rely on proprietary solutions as they are basically a black box which may stop support every second, so in current digital world open-source is the only way to live!</b>
 
 ---
 
