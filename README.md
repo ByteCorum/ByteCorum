@@ -22,7 +22,7 @@ I'm a developer with a strong interest in systems, automation, and security. I'v
 
 <h3>The ByteCorums's Journey</h3>
 
-ByteCorum's heart beats for development. It's the largest slice of his professional pie, at least now. Though who knows what the future holds?
+<!--ByteCorum's heart beats for development. It's the largest slice of his professional pie, at least now. Though who knows what the future holds?-->
 
 <ul>
 <li><b>Development:</b> 6+ years with <img src="resources/svg/python.svg" alt="Python" height="14">, 5+ with <img src="resources/svg/cpp.svg" alt="C++" height="14">, and 3+ with <img src="resources/svg/c.svg" alt="C" height="14">; currently exploring <img src="resources/svg/rust.svg" alt="Rust" height="14">.</li>
